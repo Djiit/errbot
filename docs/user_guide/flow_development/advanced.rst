@@ -83,7 +83,7 @@ It is perfectly possible to branch out to several possibilities (possibly with d
 This will do something like that::
 
     O ⟶ !first ⟶ !second
-                 └⟶ !third
+                 └⟶ !other_second
 
 
 In manual mode, the bot will tell the user about his 2 possible options to continue.
